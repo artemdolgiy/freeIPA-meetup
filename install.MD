@@ -3,7 +3,7 @@
 ## install soft
 
 ```bash
-dnf -y install freeipa-server ipa-server-dns bind-dyndb-ldap curl mc nano htop
+dnf -y install ipa-server ipa-server-dns bind-dyndb-ldap mc tmux htop vim
 ```
 
 ## setup
