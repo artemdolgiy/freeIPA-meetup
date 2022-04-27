@@ -3,7 +3,7 @@
 ## install soft
 
 ```bash
-dnf -y install ipa-server ipa-server-dns bind-dyndb-ldap mc tmux htop vim
+dnf -y install ipa-server ipa-server-dns bind-dyndb-ldap mc tmux vim
 ```
 
 ## setup
